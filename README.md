@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **TypeScript, Nextjs, and Kubernettes**
 
-- 👨‍💻 All of my projects are available at [https://hassan-shan-portfolio-mern.netlify.app/](https://hassan-shan-portfolio-mern.netlify.app/)
+- 👨‍💻 Here is my Portfolio [https://hassan-shan-portfolio-mern.netlify.app/](https://hassan-shan-portfolio-mern.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/hassan-shan/](https://www.linkedin.com/in/hassan-shan/)
 
-- 💬 Ask me about **react, JS, or web dev**
+- 💬 Ask me about **Reactjs, JS, or Web Dev**
 
 - 📫 How to reach me **hassanshan675@gmail.com**
 
