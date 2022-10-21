@@ -18,8 +18,8 @@
 <p align="left">
 </p>
 
-<p align='left'>Hacktoberfest 2022:</p>
-![image](https://user-images.githubusercontent.com/55858014/197254101-dbc92bdc-2ff7-4683-9043-8bae08b008ea.png)
+<h3 align='left'>Hacktoberfest 2022:</h3>
+<img src='https://user-images.githubusercontent.com/55858014/197254101-dbc92bdc-2ff7-4683-9043-8bae08b008ea.png' alt='/'/>
 
 
 
