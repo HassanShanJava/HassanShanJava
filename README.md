@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanshanjava" alt="hassanshanjava" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript, and Kubernettes**
+- 🌱 I’m currently learning **TypeScript, Kubernettes, and Docker**
 
 - 👨‍💻 Here is my Portfolio [https://hassan-shan-portfolio-mern.netlify.app/](https://hassan-shan-portfolio-mern.netlify.app/)
 
