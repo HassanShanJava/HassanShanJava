@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/hassan-shan/](https://www.linkedin.com/in/hassan-shan/)
 
-- 💬 Ask me about **Reactjs, JS, or Web Dev**
+- 💬 Ask me about **Reactjs, Nextjs, TS, JS, or Web Dev**
 
 - 📫 How to reach me **hassanshan675@gmail.com**
 
