@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **TypeScript with Nextjs, and Solidity for Smart Contracts**
 
-- 👨‍💻 Here is my Portfolio [https://hassan-shan-portfolio-mern.netlify.app/](https://hassan-shan-portfolio-mern.netlify.app/)
+- 👨‍💻 Here is my Portfolio [https://hassanshan.netlify.app/](Link)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/hassan-shan/](https://www.linkedin.com/in/hassan-shan/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/hassan-shan/](Link)
 
 - 💬 Ask me about **Reactjs, Nextjs, TS, JS, or Web Dev**
 
