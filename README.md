@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript with Nextjs, and Solidity for Smart Contracts**
 
-- 👨‍💻 Here is my  [Portfolio]([Link](https://hassanshan.netlify.app/))
+- 👨‍💻 Here is my  [Portfolio](https://hassanshan.netlify.app/)
 
 - 📝 I write articles on my [LinkedIn](https://www.linkedin.com/in/hassan-shan/)
 
