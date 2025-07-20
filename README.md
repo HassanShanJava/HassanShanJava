@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanshanjava" alt="hassanshanjava" /></a> </p>
 
-- 🌱 I’m currently learning **Docker and DevOps**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 Here is my  [Portfolio](https://hassanshan.netlify.app/)
 
