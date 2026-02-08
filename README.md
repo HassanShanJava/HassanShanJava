@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanshanjava" alt="hassanshanjava" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 Here is my  [Portfolio](https://hassanshan.netlify.app/)
 
