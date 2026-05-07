@@ -4,8 +4,6 @@
 
 
 
-- 🌱 I’m currently learning **Rust**
-
 - 👨‍💻 Here is my  [Portfolio](https://hassanshan.netlify.app/)
 
 - 📝 I write articles on my [LinkedIn](https://www.linkedin.com/in/hassan-shan/)
