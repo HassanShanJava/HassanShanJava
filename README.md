@@ -52,13 +52,8 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanshanjava&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Hassan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanshanjava&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-
-  <br /><br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanshanjava&theme=dark&hide_border=true" alt="GitHub Streak" width="97%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassanshanjava&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanshanjava&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanshanjava&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
+</p>
